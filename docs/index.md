@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub ![15897-Super_Saiyan-demon-anime-art-temnota-1920x1080](https://user-images.githubusercontent.com/81696914/118739495-4c306080-b852-11eb-86df-503711bbc536.jpg) Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
